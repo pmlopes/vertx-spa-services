@@ -1,0 +1,20 @@
+{
+  "name" : "vertx-spa-services",
+  "description" : "vertx spa services",
+  "version" : "0.0.1",
+  "license" : "Apache License 2.0",
+  "public" : true,
+  "maven" : {
+    "groupId" : "io.vertx",
+    "artifactId" : "vertx-spa-services",
+    "version" : "0.0.1"
+  },
+  "dependencies" : {
+    "@vertx/core" : "3.6.2",
+    "@vertx/web" : "3.6.2"
+  },
+  "main" : "index.js",
+  "module" : "module.mjs",
+  "types" : "index.d.ts",
+  "sideEffects" : false
+}
